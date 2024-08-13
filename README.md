@@ -1,6 +1,4 @@
 # Golang + Air + Docker
-
-## Overview
 This project is a Go application structured to follow best practices. It includes a Docker setup for containerization.
 
 ## Project Structure
