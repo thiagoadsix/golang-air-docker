@@ -11,7 +11,7 @@ import (
 func main() {
 	r := chi.NewRouter()
 
-	fmt.Println("Server starting at http://localhost:3000")
+	fmt.Println("Server starting at http://localhost:3000 🚀")
 
 	err := http.ListenAndServe(":3000", r)
 	if err != nil {
